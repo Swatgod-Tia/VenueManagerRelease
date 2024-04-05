@@ -1,0 +1,26 @@
+[{
+  "Author": "Swatgod-Tia",
+  "Name": "Venue Manager Plugin",
+  "InternalName": "VenueManagerPlugin",
+  "AssemblyVersion": "0.2.0.0",
+  "Description": "Allows you to manage who is displayed in your venue and alert when undesired patrons enter.\nIncludes HideList for who to hide as well as integration with built in BlackList.\nAccessible via /pvm\nMore information available via /xlhelp",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Swatgod-Tia/VenueManagerRelease",
+  "Tags": [
+    "Blacklist",
+    "Hide",
+    "HideList",
+    "Ban",
+    "Venue",
+    "VenueManager",
+    "QoL"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Swatgod-Tia/VenueManagerRelease/main/images/icon.png",
+  "Punchline": "Allows you to hide players, and alert when detected.",
+  "AcceptsFeedback": true
+}]
