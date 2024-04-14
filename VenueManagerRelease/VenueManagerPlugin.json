@@ -3,7 +3,7 @@
 		"Author": "Swatgod-Tia",
 		"Name": "Venue Manager Plugin",
 		"InternalName": "VenueManagerPlugin",
-		"AssemblyVersion": "0.3.0",
+		"AssemblyVersion": "0.4.0",
 		"Description": "Allows you to manage who is displayed in your venue and alert when undesired patrons enter.\nIncludes HideList for who to hide as well as integration with built in BlackList.\nAccessible via /pvm\nMore information available via /xlhelp",
 		"Punchline": "Allows you to hide players, and alert when detected.",
 		"Tags": [ "Blacklist", "Hide", "HideList", "Ban", "Venue", "VenueManager", "QoL" ],
@@ -17,9 +17,9 @@
 		  "https://raw.githubusercontent.com/Swatgod-Tia/VenueManagerRelease/main/images/Hide_List.png"
 		],
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/Swatgod-Tia/VenueManagerRelease/releases/download/v0.3.0/VenueManagerPlugin.zip",
-		"DownloadLinkTesting": "https://github.com/Swatgod-Tia/VenueManagerRelease/releases/download/v0.3.0/VenueManagerPlugin.zip",
-		"DownloadLinkUpdate": "https://github.com/Swatgod-Tia/VenueManagerRelease/releases/download/v0.3.0/VenueManagerPlugin.zip",
+		"DownloadLinkInstall": "https://github.com/Swatgod-Tia/VenueManagerRelease/releases/download/v0.4.0/VenueManagerPlugin.zip",
+		"DownloadLinkTesting": "https://github.com/Swatgod-Tia/VenueManagerRelease/releases/download/v0.4.0/VenueManagerPlugin.zip",
+		"DownloadLinkUpdate": "https://github.com/Swatgod-Tia/VenueManagerRelease/releases/download/v0.4.0/VenueManagerPlugin.zip",
 		"_isDip17Plugin": false,
 		"_Dip17Channel": null
 	}
