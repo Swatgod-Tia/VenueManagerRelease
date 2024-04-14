@@ -1,4 +1,4 @@
-# VenueManagerPlugin
+# VenueManagerPlugin(TM)
 This plugin controls the visibility of players.
 
 ## About
